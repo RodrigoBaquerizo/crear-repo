@@ -1,2 +1,2 @@
 Este es un nuevo texto de prueba.
-Este tiene el nuevo texto.
+Este tiene el nuevo texto. 1
